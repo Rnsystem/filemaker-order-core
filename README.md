@@ -121,4 +121,4 @@ flowchart LR
 > 適切な保護措置を十分に講じていただくようお願いします。  
 > 
 > ※ 本リポジトリで使用している FileMaker は、Claris 社が販売する商品 **Claris FileMaker** です。  
-> 使用する場合は、必ず Claris FileMaker の有償契約が必要となります。
+> 使用する場合は、Claris FileMakerもしくは代理店との有償契約が必要となります。
